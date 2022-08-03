@@ -38,7 +38,7 @@
 ### My Projects ✨:
   
 <a href="https://github.com/hamzaharooon/Cyber-Security-Toolkit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzaharooon&repo=Monsters&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzaharooon&repo=Cyber-Security-Toolkit&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/KhadijaNaz/Packet-Loss-Testing-Tool">
