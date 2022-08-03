@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hamza Haroon</h1>
 <h3 align="center">A passionate Cyber Security Student from Pakistan 🇵🇰</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaharooon&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaharooon" /> </p>
+
 - 🌱 I’m currently learning **Networking, Bug Bounty and Python**
 
 - 🤝 I’m looking for opportunities in **Cyber Security**
