@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hamza Haroon</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="20px">, I'm Hamza Haroon</h1>
 <h3 align="center">A passionate Cyber Security Student from Pakistan 🇵🇰</h3>
 
 - 🌱 I’m currently learning **Networking, Bug Bounty and Python**
