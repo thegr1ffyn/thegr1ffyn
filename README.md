@@ -33,7 +33,7 @@
 
 <br/>
 <br/>
-<br/>
+
 
 ### My Projects ✨:
   
@@ -41,22 +41,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzaharooon&repo=Cyber-Security-Toolkit&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/KhadijaNaz/Packet-Loss-Testing-Tool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KhadijaNaz&repo=Packet-Loss-Testing-Tool&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/KhadijaNaz/Synthesis-Calculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KhadijaNaz&repo=Synthesis-Calculator&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/KhadijaNaz/Syntex-Error-Checker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KhadijaNaz&repo=Syntex-Error-Checker&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/KhadijaNaz/Bank-Management-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KhadijaNaz&repo=Bank-Management-System&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/KhadijaNaz/Rock-Paper-Scissor-Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KhadijaNaz&repo=Rock-Paper-Scissor-Game&theme=tokyonight" />
+<a href="https://github.com/hamzaharooon/OOP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzaharooon&repo=OOP&theme=tokyonight" />
 </a>
