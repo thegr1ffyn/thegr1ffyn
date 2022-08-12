@@ -34,6 +34,10 @@
 
 ### My Projects ✨:
   
+<a href="https://github.com/hamzaharooon/CS50-s-Introduction-to-Programming-with-Python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzaharooon&repo=OOP&theme=tokyonight" />
+</a>
+
 <a href="https://github.com/hamzaharooon/Cyber-Security-Toolkit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzaharooon&repo=Cyber-Security-Toolkit&theme=tokyonight" />
 </a>
