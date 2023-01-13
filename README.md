@@ -24,24 +24,24 @@
 
 ### Github Activity ✔:
 
-<a href="https://github.com/hamzaharooon">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaharooon&theme=tokyonight" />
+<a href="https://github.com/thegr1ffyn">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegr1ffyn&theme=tokyonight" />
   </a>
 
-<a href="https://github.com/hamzaharooon">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzaharooon&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+<a href="https://github.com/thegr1ffyn">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=thegr1ffyn&show_icons=true&theme=tokyonight&line_height=27" alt="Hamza's github stats"/>
 </a>
 
 ### My Projects ✨:
   
-<a href="https://github.com/hamzaharooon/CS50-s-Introduction-to-Programming-with-Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzaharooon&repo=CS50-s-Introduction-to-Programming-with-Python&theme=tokyonight" />
+<a href="https://github.com/thegr1ffyn/CS50-s-Introduction-to-Programming-with-Python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thegr1ffyn&repo=CS50-s-Introduction-to-Programming-with-Python&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/hamzaharooon/Cyber-Security-Toolkit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzaharooon&repo=Cyber-Security-Toolkit&theme=tokyonight" />
+<a href="https://github.com/thegr1ffyn/Cyber-Security-Toolkit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thegr1ffyn&repo=Cyber-Security-Toolkit&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/hamzaharooon/OOP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzaharooon&repo=OOP&theme=tokyonight" />
+<a href="https://github.com/thegr1ffyn/OOP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thegr1ffyn&repo=OOP&theme=tokyonight" />
 </a>
