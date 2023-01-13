@@ -1,16 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="20px">, I'm Hamza Haroon</h1>
-<h3 align="center">A passionate Cyber Security Student from Pakistan 🇵🇰</h3>
+<h3 align="center">A keen and dedicated Cyber Security Researcher and CTF Player 🇵🇰</h3>
 
-
-- 🌱 I’m currently learning **Networking, Bug Bounty and Python**
-
-- 🤝 I’m looking for opportunities in **Cyber Security**
-
-- 👨‍💻 All of my projects are available at [github.com/hamzaharooon](github.com/hamzaharooon)
-
-- 💬 Ask me about **Cyber Security**
-
-- ⚡ Fun fact **I run marathons 😄**
 
 <img align="center" alt="Coding" src="https://www.sogeti.com/globalassets/global/content-images/explore/blog/2020-predictions/00086---desk-anim---v0.3.gif">
 
