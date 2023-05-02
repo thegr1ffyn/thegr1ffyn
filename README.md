@@ -2,7 +2,7 @@
 <h3 align="center">A keen and dedicated Cyber Security Researcher and CTF Player 🇵🇰</h3>
 
 
-<img align="center" alt="Coding" src="https://www.sogeti.com/globalassets/global/content-images/explore/blog/2020-predictions/00086---desk-anim---v0.3.gif">
+<img align="center" alt="Coding" src="[https://www.sogeti.com/globalassets/global/content-images/explore/blog/2020-predictions/00086---desk-anim---v0.3.gif](https://camo.githubusercontent.com/d87412330e179c453793251de9ef574f11d2c570510e949304f1a767ad891b6c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f456a4857706956494f475854356c396d2f67697068792e676966)">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
