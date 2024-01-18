@@ -2,7 +2,7 @@
 <h4 align="center">A Cyber Security Researcher & Developer who loves to break, code and play CTFs.</h4>
 
 <ul>
-  <li><b>Discord: </b> <a href="#" target="_blank">TheGr1ffyn#8078</a></li>
+  <li><b>Discord: </b> <a href="#" target="_blank">thegr1ffyn</a></li>
     <li><b>HackTheBox: </b> <a href="https://app.hackthebox.com/users/1336751">TheGr1ffyn</a></li>
   <li><b>TryHackMe: </b> <a href="https://tryhackme.com/p/hamzaharoon">hamzaharoon</a></li>
   <li><b>Twitter: </b> <a href="https://twitter.com/thegr1ffyn" target="_blank">@thegr1ffyn</a></li>
