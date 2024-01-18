@@ -17,5 +17,8 @@
 <h2 align="center"> 📈 Quick Stats </h2> 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=thegr1ffyn&show_icons=true&theme=merko&count_private=true&include_all_commits=true" alt="My stats">
+<img src="https://github-readme-stats.vercel.app/api?username=thegr1ffyn&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="My stats">
+  <br>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thegr1ffyn&hide=css,java,html&theme=tokyonight">
+
 </p>
