@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, It's Hamza</h1>
-<h4 align="center">A Cyber Security Researcher & Developer who loves to break, code and play CTFs.</h4>
+<h4 align="center">A Cyber Security Researcher & Developer who loves to break, code, and play CTFs.</h4>
 
-<ul>
-  <li><b>Discord: </b> <a href="#" target="_blank">thegr1ffyn</a></li>
-    <li><b>HackTheBox: </b> <a href="https://app.hackthebox.com/users/1336751">TheGr1ffyn</a></li>
-  <li><b>TryHackMe: </b> <a href="https://tryhackme.com/p/hamzaharoon">hamzaharoon</a></li>
-  <li><b>Twitter: </b> <a href="https://twitter.com/thegr1ffyn" target="_blank">@thegr1ffyn</a></li>
-  <li><b>Linkedin: </b> <a href="https://www.linkedin.com/in/hamzaharooon/" target="_blank">https://www.linkedin.com/in/hamzaharooon/</a></li>
-</ul>
+  <h3>Certifications</h3>
+  <div style="text-align: center;">
+    <img src="assets/ecpptv2.png" alt="eCPPTv2" width="150">
+    <img src="assets/ccna.png" alt="CCNA" width="150">
+    
+<h3>HackTheBox</h3>
+    <img src = "https://www.hackthebox.com/badge/image/1336751">
 
-```javascript
-<script>
-    alert("You have been pwned!")
-</script>
-```
+<h3>TryHackMe</h3>
+    <img src="assets/tryhackme.png" alt="TryHackMe">
+
+
 
 <h2 align="center"> 📈 Quick Stats </h2> 
 
