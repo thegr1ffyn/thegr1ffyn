@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, It's Hamza</h1>
 <h4 align="center">A Cyber Security Researcher & Developer who loves to break, code, and play CTFs.</h4>
-
   <h3>Certifications</h3>
   <div style="text-align: center;">
     <img src="assets/ecpptv2.png" alt="eCPPTv2" width="150">
