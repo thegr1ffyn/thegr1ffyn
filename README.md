@@ -11,7 +11,13 @@
 <h3>TryHackMe</h3>
     <img src="assets/tryhackme.png" alt="TryHackMe">
 
-
+<div align="center">
+  <h2> Watch me play Snake Game 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 <h2 align="center"> 📈 Quick Stats </h2> 
 
