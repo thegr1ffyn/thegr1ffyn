@@ -9,7 +9,7 @@
     <img src = "https://www.hackthebox.com/badge/image/1336751">
 
 <h3>TryHackMe</h3>
-    <img src="assets/tryhackme.png" alt="TryHackMe">
+    <img src="assets/tryhackme.png" align="center "alt="TryHackMe">
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
