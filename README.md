@@ -13,9 +13,9 @@
 </p>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <img src="assets/ecpptv2.png" alt="eCPPTv2" width="100" style="margin: 15px;">
+  <img src="assets/ecpptv2.png" alt="eCPPTv2" width="120" style="margin: 10px;">
   <img src="assets/ccna.png" alt="CCNA" width="100" style="margin: 15px;">
-  <img src="assets/CEH.png" alt="CEH" height="100" style="margin: 15px;">
+  <img src="assets/CEH.png" alt="CEH" height="100" style="margin: 10px;">
 </div>
 
 
