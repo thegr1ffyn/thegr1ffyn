@@ -10,9 +10,6 @@ OSCP+ | OSCP | eCPPT | CCNA
 ## 🌍 **Connect with Me**
 <ul>
   <li><b>🌍 Website:</b> <a href="https://thegriffyn.me" target="_blank">thegriffyn.me</a></li>
-  <li><b>📜 Blog:</b> <a href="https://thegriffyn.me/blog" target="_blank">https://thegriffyn.me/blog</a></li>
-  <li><b>👨🏻‍💻 HackTheBox:</b> <a href="https://app.hackthebox.com/profile/1336751" target="_blank">TheGriffyn</a></li>
-  <li><b>🚀 Discord:</b> thegr1ffyn</li>
   <li><b>📩 Email:</b> <a href="mailto:hamzaharooon@protonmail.com">hamzaharooon@protonmail.com</a></li>
   <li><b>💬 Twitter:</b> <a href="https://twitter.com/thegr1ffyn" target="_blank">@thegr1ffyn</a></li>
   <li><b>📈 LinkedIn:</b> <a href="https://linkedin.com/in/hamzaharooon" target="_blank">https://linkedin.com/in/hamzaharooon</a></li>
