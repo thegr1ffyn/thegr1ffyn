@@ -5,7 +5,10 @@
 </p>
 
 <p align="center">
-OSCP+ | OSCP | eCPPT | CCNA
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/162811068" width="100" height="100" alt="OSCP+" />
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/162811020" width="100" height="100" alt="OSCP" />
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/85885957" width="100" height="100" alt="eCPPTv2" />
+</p>
 
 ## 🌍 **Connect with Me**
 <ul>
@@ -18,5 +21,5 @@ OSCP+ | OSCP | eCPPT | CCNA
 
 <h2 align="center"> 📈 Quick Stats </h2> 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=thegr1ffyn&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My stats">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=thegr1ffyn&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" alt="My stats">
 </p>
