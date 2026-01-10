@@ -1,8 +1,7 @@
 <h2 align="center"> 👋 Hi, I'm <b>Hamza</b> </h2>
 
 <p align="center">
-  Passionate about breaking, coding, and securing systems. I explore vulnerabilities and enhance security while having fun with CTFs.
-</p>
+I like to break machines (legally ofcourse :P)</p>
 
 <p align="center">
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/162811068" width="100" height="100" alt="OSCP+" />
