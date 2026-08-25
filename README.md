@@ -1,5 +1,5 @@
 <p align="center">
-I like to break systems (legally ofcourse :P)</p>
+I break systems for a living</p>
 
 <p align="center">
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/162811068" width="100" height="100" alt="OSCP+" />
