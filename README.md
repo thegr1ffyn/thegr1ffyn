@@ -16,9 +16,3 @@ I like to break systems (legally ofcourse :P)</p>
   <li><b>💬 Twitter:</b> <a href="https://twitter.com/thegr1ffyn" target="_blank">@thegr1ffyn</a></li>
   <li><b>📈 LinkedIn:</b> <a href="https://linkedin.com/in/hamzaharooon" target="_blank">https://linkedin.com/in/hamzaharooon</a></li>
 </ul>
-
-
-<h2 align="center"> 📈 Quick Stats </h2> 
-<p align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=thegr1ffyn&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" alt="My stats">
-</p>
